@@ -1,4 +1,4 @@
-# 🌟 ML Classifiers Project
+# 📘 JOVAC_ASSIGNMENT_NAIVE_BAYES_DECISION_TREES_AND_ENSEMBLE_LEARNING
 
 This project contains implementations of various machine learning classification models using Python and scikit-learn.
 
